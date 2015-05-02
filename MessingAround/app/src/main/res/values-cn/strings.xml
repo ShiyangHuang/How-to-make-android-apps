@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MessingAround</string>
+
+    <string name="hello_world">好</string>
+    <string name="action_settings">设置</string>
+    <string name="user_name_edit_text">名字</string>
+    <string name="happy_question">开心？</string>
+    <string name="yes_button">是</string>
+    <string name="no_button">否</string>
+</resources>

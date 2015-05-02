@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/ripple_material_dark</item>
+
+        <item name="android:editTextColor">#ffb62a23</item>
+        <item name="android:fontFamily">poly</item>
+
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextView1">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="EditText" parent="@style/TextView1">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="TextView1.TextView2">
+        <item name="android:padding">30dp</item>
+    </style>
+    <style name="TextView1.TextView2.TextView3">
+        <item name="android:layout_marginTop">50dp</item>
+    </style>
+</resources>

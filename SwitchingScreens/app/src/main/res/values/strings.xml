@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SwitchingScreens</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_name_text_view">Enter your name:</string>
+    <string name="enter_button">Enter</string>
+    <string name="text_calling_activity_sg">Text calling activity message</string>
+    <string name="get_the_name_text_view">Go Get the Name</string>
+</resources>

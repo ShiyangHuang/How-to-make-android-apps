@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TabTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_1_name">Tab1</string>
+    <string name="tab_2_name">Tab2</string>
+    <string name="tab_3_name">Tab3</string>
+    <string name="tab_4_name">Tab4</string>
+</resources>

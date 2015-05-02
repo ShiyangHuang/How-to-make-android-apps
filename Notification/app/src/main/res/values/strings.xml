@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notification</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="stop_notification">Stop Notivication</string>
+    <string name="alert_in_5_second">Alert in 5 second</string>
+    <string name="title">Notification Test</string>
+</resources>
